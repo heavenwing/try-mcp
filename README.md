@@ -24,5 +24,7 @@ source .venv/bin/activate
 uv add mcp openai python-dotenv
 
 python client.py ./server.py
+
+# Input like : 北京时间现在几点？
 ```
 
